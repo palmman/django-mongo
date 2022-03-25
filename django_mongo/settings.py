@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'apps.decks',
     
     'rest_framework',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
